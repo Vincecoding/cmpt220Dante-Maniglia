@@ -1,0 +1,43 @@
+8 pts
+
+Vincent,
+
+About your programs...
+
+Functionality
+
+- All programs function correctly as required.
+
+
+Style Check
+
+- Programs are missing the header: -1pt
+  /**
+   * file: SinglyLinkedList.java
+   * author: student name
+   * course: CMPT 220
+   * assignment: project 1
+   * due date: August 30, 2003
+   * version: 1.3
+   * 
+   * This file contains the declaration of the SinglyLinkedList abstract data
+   * type.
+   */
+
+- You used tabs, which is forbidden. -1pt
+
+- There is incorrect indentation. -1pt
+
+Please make sure you follow the style guidelines. Penalties will be higher as
+the semester moves forward.
+
+
+About your essay:
+
+- Excellent writing and analysis. +1pt
+
+
+
+Peace,
+
+- Dr. Rivas
