@@ -1,0 +1,12 @@
+10 pts
+
+Vincent,
+
+I believe we have discussed in person this project, right?
+As I said when you were here, start from building the basic framework, that is,
+start adding an immage into a java window (gui). Then go from there.
+
+
+Peace,
+
+- Dr. Rivas
