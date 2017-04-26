@@ -1,0 +1,38 @@
+8 pts
+
+Vincent,
+
+About your programs...
+
+Functionality
+
+- Could not test functionality because programs cannot be compiled.  -1pt
+
+Please make sure you read the problems well; follow instructions.
+
+
+Style Check
+
+- All programs are missing the header: -1pt
+  /**
+   * file: SinglyLinkedList.java
+   * author: student name
+   * course: CMPT 220
+   * assignment: project 1
+   * due date: August 30, 2003
+   * version: 1.3
+   * 
+   * This file contains the declaration of the SinglyLinkedList abstract data
+   * type.
+   */
+
+- You used tabs, which is forbidden. -1pt
+
+- There is incorrect indentation. -1pt
+
+Please make sure you follow the style guidelines and that your programs can be
+compiled using javac. Penalties will be higher as the semester moves forward.
+
+Peace,
+
+- Dr. Rivas
