@@ -1,0 +1,7 @@
+8 pts lab6
+8 pts lab7
+
+Programs do not compile.
+There are tabs.
+Missing headers.
+It does not pass style check!
